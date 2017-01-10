@@ -1,0 +1,18 @@
+	<html>
+  <head>
+    <title>Chelsy's Website</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+  </head>
+  <body>
+    <div class="title">
+      <img id="titleimg" src="chelsykim.png"/>
+    </div>
+    <table>
+      <caption>Menu</caption>
+      <tr>
+        <td><a href="me.html">About Me</a></td>
+      
+      </tr>
+    </table>
+  </body>
+</html>
