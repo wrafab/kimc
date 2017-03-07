@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WEEK 5</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+  </head>
+  <body>
+    <div class="title">
+      <img id="weektitleimg" src="vinyl.png"/>
+    </div>
+    <h1> WEEK 5| POURING PEWTER </h1>
+    <p><hr></p>
+    <br>
+    <h3> Week 5| POURING PEWTER </h3>
+    <br>
+    <p>
+The task for this week is   </p>
+    <br>
+    <p><hr></p>
+    <br>
+    <h3>Process</h3>
+    <br>
+    <p>
+Setting up the plasma machine was really interesting (and difficult) - we had to drill out the back woonden board, and fill the space with water. I did not know that there were these many types of cutting/carving. So far, I have just experienced CNC, so I was really excited to try plasma cutting!
+</p>
+    <br>
+    <div class="container">
+    	<img id="normalimg" src="p1.png">
+    	<img id="normalimg" src="p2.png">
+    	
+    </div>
+    <p>
+      
+    </p>
+    <br>
+    <p><hr></p>
+    <br>
+
+ <h3>Outcome</h3>
+    <br>
+    <p>
+aaa
+    <br>
+    <div class="container">
+      <img id="normalimg" src="p3.png"/>
+      <img id="normalimg" src="p4.png"/>
+    </div>
+    <br>
+   
+    </div>
+    <br>
+    <p><hr></p>
+
+
+    <h3>Reflection</h3>
+    <br>
+    <p>
+aaa
+</p>
+    <br>
+    <div class="container">
+      
+    </div>
+    <br>
+    <p>
+   
+    </p>
+    <br>
+    <div class="container">
+      
+    </div>
+    <br>
+    <p><hr></p>
+    <br>
+    <h3>FILES</h3>
+    <br>
+    <ul>
+      <li><a href="cornell.cdr">abc</a></li>
+      <li><a href="monkey.cdr">abc</a></li>
+    </ul>
+    <br>
+    <p><hr></p>
+    <br>
+    <div class="container"><a href="index.html">Back to index</a></div>
+    <br>
+  </body>
+</html>
