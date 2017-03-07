@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WEEK 4</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+  </head>
+  <body>
+    <div class="title">
+      <img id="weektitleimg" src="vinyl.png"/>
+    </div>
+    <h1> WEEK 4| PHOTO V-CARVE </h1>
+    <p><hr></p>
+    <br>
+    <h3> Week 4| PHOTO V-CARVE/WELDING </h3>
+    <br>
+    <p>
+This week, we experienced a little bit of welding. My first welding experience was scary - it was really challening to control my hand, not be scared of the flames and the dark! However, I really wish to be able to weld better one day!
+Also, the task for this week was to use photo v-carve to print out a picture. I was intrigued by how many different functions V-Carve has!  </p>
+    <br>
+    <p><hr></p>
+    <br>
+    <h3>Process</h3>
+    <br>
+    <p>
+When Ran and I were deciding which photos to choose, we decided to choose the selfie we took to capture our first welding journey! Sadly, our first few attempts in printing are not as good as the latter ones. I will guide you through Ran and my journey in using photo v-carve.
+1) The problem with the first file was that the details were too fine - so it was hard to notice the difference in hue.
+2) Therefore, we made the depth deeper, and the result turned out to be a little better (but not enough to satisfy Ran)
+3) Devastated, we decided to try the horizontal cut with deeper depth, but the result was disappointing.
+4) Mr. Gerber gave us a manual, and we followed the settings as it was listed in the manual. We chose a shallow groove and it was the best of all attempts!
+</p>
+    <br>
+    <div class="container">
+    	<img id="normalimg" src="p1.png">
+    	<img id="normalimg" src="p2.png">
+    	
+    </div>
+    <p>
+      
+    </p>
+    <br>
+    <p><hr></p>
+    <br>
+
+ <h3>Outcome</h3>
+    <br>
+    <p>
+aaa
+    <br>
+    <div class="container">
+      <img id="normalimg" src="p3.png"/>
+      <img id="normalimg" src="p4.png"/>
+    </div>
+    <br>
+   
+    </div>
+    <br>
+    <p><hr></p>
+
+
+    <h3>Reflection</h3>
+    <br>
+    <p>
+Getting to use photo V-Carve was really interesting. Who would have imagined we can now print pictures, or even, carve pictures on wood? While it was frustrating at times to see unsatiable results, I got to learn from my mistakes. When I use this next time, I will not rely too much on the preview, and actually test print it on a smaller piece before going on to print the actual object. That way, I will be able to know exactly what depth it will cut through, and get a better idea of how it would turn out.
+</p>
+    <br>
+    <div class="container">
+      
+    </div>
+    <br>
+    <p>
+   
+    </p>
+    <br>
+    <div class="container">
+      
+    </div>
+    <br>
+    <p><hr></p>
+    <br>
+    <h3>FILES</h3>
+    <br>
+    <ul>
+      <li><a href="cornell.cdr">abc</a></li>
+      <li><a href="monkey.cdr">abc</a></li>
+    </ul>
+    <br>
+    <p><hr></p>
+    <br>
+    <div class="container"><a href="index.html">Back to index</a></div>
+    <br>
+  </body>
+</html>
