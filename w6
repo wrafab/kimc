@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WEEK 2</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+  </head>
+  <body>
+    <div class="title">
+      <img id="weektitleimg" src="cf.png"/>
+    </div>
+    <h1> WEEK 2| CAD FURNITURE </h1>
+    <p><hr></p>
+    <br>
+    <h3> Week 2 | CAD FURNITURE </h3>
+    <br>
+    <p>
+The task for this week is to create a CAD furniture! We had an option to either create our own design, or download files from autodesk and print them out! 
+      
+  </p>
+    <br>
+    <p><hr></p>
+    <br>
+    <h3>Process</h3>
+    <br>
+    <p>
+Although getting files off the internet and printing them seems to be an "easy" process, the steps were rather complicated. In the beginning, I wanted to print out a fancy "kerf chair", but since the design looked too intricate to begin with, I chose to start with a tiny stool. After getting the files, I did not know what to do because although the website said "just print after you download!", this was not the case. Therefore, I asked for Mr. Gerber's help, and after making many attempts in opening the file through various programs, we finally figured it out. We first opened the file in "Adobe Illustrator" and cut out all the texts and outlines from it. Then, we opened the file in "Corel Draw" where we set adjusted the size. Finally, we uploaded this edited file to V-Carve to get the file ready to print. 
+</p>
+    <br>
+    <div class="container">
+    	<img id="normalimg" src="c0.png">
+    	<img id="normalimg" src="c1.png">
+      <img id="normalimg" src="c2.png">
+
+    	
+    </div>
+    <p>
+      
+    </p>
+    <br>
+    <p><hr></p>
+    <br>
+
+ <h3>Outcome</h3>
+    <br>
+    <p>
+This is how my stool turned out to be after I finished designing it! I look forward to creating more furnitures such as bookcases, stools, desks, and more. 
+    <br>
+    <div class="container">
+      <img id="normalimg" src="c3.png"/>
+      <img id="normalimg" src="c4.png"/>
+    </div>
+    <br>
+   
+    </div>
+    <br>
+    <p><hr></p>
+
+
+    <h3>Reflection</h3>
+    <br>
+    <p>
+I really x ∞ enjoyed creating furniture with CAD. Although it was a bit more complicated than I imagined it would be, I had so much fun seeing the pieces print out, and assembling them. The most satisfying moment was when I finished assembling my own stool! 
+</p>
+    <br>
+    <div class="container">
+      
+    </div>
+    <br>
+    <p>
+   
+    </p>
+    <br>
+    <div class="container">
+      
+    </div>
+    <br>
+    <p><hr></p>
+    <br>
+    <h3>FILES</h3>
+    <br>
+    <ul>
+      <li><a href="stool.dxf">Stool</a></li>
+     
+    </ul>
+    <br>
+    <p><hr></p>
+    <br>
+    <div class="container"><a href="index.html">Back to index</a></div>
+    <br>
+  </body>
+</html>
